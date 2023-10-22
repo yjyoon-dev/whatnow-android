@@ -34,6 +34,8 @@
 
 - **비동기 처리**
     - Coroutine Flow
+- **UI**
+    - Jetpack Compose
     
 
 <img width="1104" alt="image" src="https://github.com/Uttug-Seuja/uttug-seuja-algorithm/assets/69571848/2474de05-53fd-48a3-a3a8-9015d64f29be">
